@@ -1,4 +1,4 @@
-# 🧠 Multi‑Agent HR Helper (Streamlit, no API keys)
+# 🧠 Multi‑Agent HR Helper 
 
 An interactive Streamlit app that demonstrates a tiny **multi‑agent RAG** system:
 - **💼 Salary Agent** answers salary questions.
@@ -7,13 +7,13 @@ An interactive Streamlit app that demonstrates a tiny **multi‑agent RAG** syst
 
 ## 🚀 Quick Start (Local)
 
-> You only need Python 3.9+ and VS Code. No API keys required.
+> You only need Python 3.9+ and VS Code. 
 
 ```bash
 # 1) Create/activate a virtual environment (recommended)
 python -m venv .venv
 # Windows: .venv\Scripts\activate
-# macOS/Linux: source .venv/bin/activate
+# macOS/Linux: source .venv/bin/activate.bat
 
 # 2) Install Streamlit
 pip install -r requirements.txt
